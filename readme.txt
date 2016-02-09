@@ -2,6 +2,9 @@ DT 01-02-2016
 
 Restful API on SQL database with flask
 
+This is code used in a project that aims to make a Yiddish-Dutch dictionary
+available online.
+
 This is an implementation of a simple API on a sqlite database.
 It also contains an import script that will import a csv file into the sqlite db.
 
